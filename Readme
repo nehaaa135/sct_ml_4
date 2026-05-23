@@ -1,0 +1,54 @@
+# Hand Gesture Recognition using SVM
+
+## Project Overview
+This project implements a Hand Gesture Recognition system using Machine Learning.
+The model classifies different hand gestures from image data using an SVM classifier.
+
+## Dataset
+Dataset Used:
+LeapGestRecog Dataset
+
+## Technologies Used
+- Python
+- OpenCV
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+## Machine Learning Algorithm
+- Support Vector Machine (SVM)
+
+## Features
+- Image preprocessing
+- Gesture classification
+- Confusion matrix visualization
+- Prediction visualization
+- Accuracy evaluation
+
+## Folder Structure
+SCT_ML_4/
+│
+├── leapGestRecog/
+├── main.py
+├── confusion_matrix.png
+├── predictions.png
+└── README.md
+
+## Installation
+
+Install required libraries:
+
+pip install numpy opencv-python matplotlib scikit-learn
+
+## Run Project
+
+python main.py
+
+## Output
+- Classification Report
+- Accuracy Score
+- Confusion Matrix
+- Predicted Gesture Images
+
+## Author
+Neha Akula
